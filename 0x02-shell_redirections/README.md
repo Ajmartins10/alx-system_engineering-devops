@@ -1,1 +1,1 @@
-write a script that displays a confused smiley
+shell I/O redirections
